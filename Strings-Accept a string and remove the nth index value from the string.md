@@ -1,4 +1,3 @@
-# Module-3
 # 🧹 Strings-Remove Nth Index Character from a String
 
 ## 🎯 Aim
